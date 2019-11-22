@@ -29,7 +29,9 @@ master.menu.sign-out = Salir
 # master.menu.anonymous #######################################################
 
 master.menu.anonymous = Anónimo
-master.menu.anonymous.Alfonso-link = Enlace de Alfonso
+master.menu.anonymous.alfonso-link = Enlace de Alfonso
+master.menu.anonymous.shout = Gritar
+master.menu.anonymous.list-shout = Lista de gritos
 
 # master.menu.administrator ###################################################
 

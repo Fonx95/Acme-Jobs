@@ -29,7 +29,9 @@ master.menu.sign-out = Sign out
 # master.menu.anonymous #######################################################
 
 master.menu.anonymous = Anonymous
-master.menu.anonymous.Alfonso-link = Alfonso´s link
+master.menu.anonymous.alfonso-link = Alfonso´s link
+master.menu.anonymous.shout = Shout
+master.menu.anonymous.list-shout = Shout list
 
 # master.menu.administrator ###################################################
 

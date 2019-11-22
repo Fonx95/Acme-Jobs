@@ -19,7 +19,10 @@
 <acme:menu-bar code="master.menu.home">
 	<acme:menu-left>
 		<acme:menu-option code="master.menu.anonymous" access="isAnonymous()">
-			<acme:menu-suboption code="master.menu.anonymous.Alfonso-link" action="http://www.google.com/"/>
+			<acme:menu-suboption code="master.menu.anonymous.alfonso-link" action="http://www.google.com/"/>
+			<acme:menu-separator/>
+			<acme:menu-suboption code="master.menu.anonymous.shout" action="/anonymous/shout/create"/>
+			<acme:menu-suboption code="master.menu.anonymous.list-shout" action="/anonymous/shout/list"/>
 		</acme:menu-option>
 
 		<acme:menu-option code="master.menu.administrator" access="hasRole('Administrator')">
